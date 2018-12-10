@@ -52,7 +52,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="89"/>
         <source>Transparent</source>
-        <translation>Transparant</translation>
+        <translation>Transparent</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="129"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="701"/>
         <source>Update Label</source>
-        <translation>Mettre à jour l&apos;étiquette</translation>
+        <translation>MàJ l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="725"/>
@@ -348,7 +348,7 @@
         <location filename="../src/mainwindow.ui" line="1093"/>
         <location filename="../src/mainwindow.cpp" line="663"/>
         <source>Export transactions</source>
-        <translation type="unfinished"></translation>
+        <translation >Exporter les transactions</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="474"/>
@@ -404,12 +404,12 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="669"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="670"/>
         <source>Error exporting transactions, file was not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l'exportation des transactions, le fichier n'a pas été sauvé</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="692"/>
@@ -547,7 +547,7 @@ Cette adresse ne semble pas être de type adresse-z</translation>
     <message>
         <location filename="../src/sendtab.cpp" line="304"/>
         <source>Reply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Répondre à</translation>
     </message>
     <message>
         <location filename="../src/sendtab.cpp" line="428"/>
@@ -586,7 +586,7 @@ Cette adresse ne semble pas être de type adresse-z</translation>
     <message>
         <location filename="../src/memodialog.ui" line="52"/>
         <source>Include Reply Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure l'adresse de réponse</translation>
     </message>
 </context>
 <context>
